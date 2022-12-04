@@ -1,0 +1,15 @@
+C:\Users\Анна\Desktop\Lesson3.1\Example008.01_intromethod\bin\Debug\net6.0\Example008.01_intromethod.exe
+C:\Users\Анна\Desktop\Lesson3.1\Example008.01_intromethod\bin\Debug\net6.0\Example008.01_intromethod.deps.json
+C:\Users\Анна\Desktop\Lesson3.1\Example008.01_intromethod\bin\Debug\net6.0\Example008.01_intromethod.runtimeconfig.json
+C:\Users\Анна\Desktop\Lesson3.1\Example008.01_intromethod\bin\Debug\net6.0\Example008.01_intromethod.dll
+C:\Users\Анна\Desktop\Lesson3.1\Example008.01_intromethod\bin\Debug\net6.0\Example008.01_intromethod.pdb
+C:\Users\Анна\Desktop\Lesson3.1\Example008.01_intromethod\obj\Debug\net6.0\Example008.01_intromethod.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\Lesson3.1\Example008.01_intromethod\obj\Debug\net6.0\Example008.01_intromethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\Lesson3.1\Example008.01_intromethod\obj\Debug\net6.0\Example008.01_intromethod.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\Lesson3.1\Example008.01_intromethod\obj\Debug\net6.0\Example008.01_intromethod.AssemblyInfo.cs
+C:\Users\Анна\Desktop\Lesson3.1\Example008.01_intromethod\obj\Debug\net6.0\Example008.01_intromethod.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Lesson3.1\Example008.01_intromethod\obj\Debug\net6.0\Example008.01_intromethod.dll
+C:\Users\Анна\Desktop\Lesson3.1\Example008.01_intromethod\obj\Debug\net6.0\refint\Example008.01_intromethod.dll
+C:\Users\Анна\Desktop\Lesson3.1\Example008.01_intromethod\obj\Debug\net6.0\Example008.01_intromethod.pdb
+C:\Users\Анна\Desktop\Lesson3.1\Example008.01_intromethod\obj\Debug\net6.0\Example008.01_intromethod.genruntimeconfig.cache
+C:\Users\Анна\Desktop\Lesson3.1\Example008.01_intromethod\obj\Debug\net6.0\ref\Example008.01_intromethod.dll
